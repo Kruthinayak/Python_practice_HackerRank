@@ -1,5 +1,4 @@
 def swap_case(s):
-    n=int(input())
     result = ""
 
     for ch in s:
